@@ -37,7 +37,7 @@
 - Received 1 in 550 rare [Community Hero badger](https://www.microsoft.com/skills/azureheroes) from Microsoft for organising meetups, conferences, sharing content and being an active member of the community.
 - Selected as 1 of 500 recipients for the [Nutanix Hybrid Cloud Scholarship Program](https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program) designed to upskill professionals interested in using emerging cloud technologies to enhance their organization's IT infrastructure.
 - Selected as a recipient for the [Linux Foundation Training (LiFT) Scholarship](https://www.linuxfoundation.org/about/diversity-inclusiveness/lift-scholarships/) in the Developer Do-Gooders category.
-- Selected as a scholarship recipient for **KubeCon** + CloudNativeCon, Open Source Summit in 2019 & 2020.
+- Selected as a scholarship recipient for **KubeCon + CloudNativeCon, Open Source Summit** in 2019 & 2020.
 
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal-kushwaha&show_icons=true&hide_border=true)
 <br />
