@@ -33,7 +33,7 @@
 - Instructor at workshops conducted by '[CodeChef for Schools](https://drive.google.com/open?id=1-gbv21BN66dY0K88pd8ir69VQ0C8ovUU)' for **Competitive Programming**.
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Handson **workshops** across India on DevOps, Open Source, Cloud, ML, Web, etc
 
-### Honors & Awards
+### Honors & Awards 🏅
 - Received 1 in 550 rare [Community Hero badger](https://www.microsoft.com/skills/azureheroes) from Microsoft for organising meetups, conferences, sharing content and being an active member of the community.
 - Selected as 1 of 500 recipients for the [Nutanix Hybrid Cloud Scholarship Program](https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program) designed to upskill professionals interested in using emerging cloud technologies to enhance their organization's IT infrastructure.
 - Selected as a recipient for the [Linux Foundation Training (LiFT) Scholarship](https://www.linuxfoundation.org/about/diversity-inclusiveness/lift-scholarships/) in the Developer Do-Gooders category.
