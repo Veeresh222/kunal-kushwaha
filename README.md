@@ -31,7 +31,7 @@
 - TA & Instructor at [Coding Blocks](https://codingblocks.com) for Java, Python, Data Science & Machine Learning.
 - Python Mentor ([AnitaB.org](https://drive.google.com/file/d/1XBpBcEysVfEaJu2RY13pubkPu3AN4EwW/view?usp=sharing)) - Conducted doubt sessions & masterclasses for a group of **200+** students.
 - Instructor at workshops conducted by '[CodeChef for Schools](https://drive.google.com/open?id=1-gbv21BN66dY0K88pd8ir69VQ0C8ovUU)' for Competitive Programming.
-- [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted Hands-on workshops & webinars on DevOps, Open Source, Cloud, ML, Web Dev, etc.
+- [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted hands-on workshops & webinars on DevOps, Open Source, Cloud, ML, Web Dev, etc.
 
 ### Honors & Awards 🏅
 - Received 1 in 550 rare [Community Hero badger](https://www.microsoft.com/skills/azureheroes) from Microsoft for organising meetups, conferences, sharing content and being an active member of the community.
